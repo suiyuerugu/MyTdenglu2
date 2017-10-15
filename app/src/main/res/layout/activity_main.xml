@@ -70,7 +70,7 @@
             android:textSize="22sp"
             android:textColor="@color/buttonTextColor"
             android:text="登陆"
-            />
+            android:onClick="onClick"/>
         <Button
             android:id="@+id/btn_cancel"
             android:layout_width="0dp"
